@@ -1,11 +1,14 @@
 
 
 /*
- Given a string s, return the longest palindromic substring in s.
-
-Example : Input: s ="banana"
+ * LeetCode Questions
+ * credit : LeetCode
+ *
+ * Given a string s, return the longest palindromic substring in s.
+ *
+ * Example : Input: s ="banana"
 	  Output: "anana"
-
+ * Solution: @Author Manish
  */
 
 
