@@ -8,7 +8,8 @@
  *
  * Example : Input: s ="banana"
 	  Output: "anana"
- * Solution: @Author Manish
+ * Solution: @Author Manish 
+ * Date: 11 Aug 2024
  */
 
 
