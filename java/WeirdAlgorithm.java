@@ -20,6 +20,8 @@ Output:
  */ 
 
 import java.util.*;
+
+
 class WeirdAlgorithm {
 
 	public static void main(String args[]) {
