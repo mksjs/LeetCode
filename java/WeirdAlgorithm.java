@@ -36,6 +36,6 @@ class WeirdAlgorithm {
 				
 			}
 		}
-		 System.out.println(n);
+		 System.out.print(n);
 	}
 }
